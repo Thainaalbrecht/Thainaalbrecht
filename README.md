@@ -13,11 +13,6 @@ Oii! Eu sou a Thainá
 
 
 ##
-  
-  <div>
-  <a href="https://www.youtube.com/channel/UCi-T08BHllaHXtJdOR3dgSQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000? style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/thainaalbrecht/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the- badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/thaii_alb12" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the- badge&logo=twitch&logoColor=white" target="_blank"></a>
 
 
 ![ Animação de cobra ](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
